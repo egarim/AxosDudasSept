@@ -29,6 +29,7 @@ namespace AxosDudasSept.Module.BusinessObjects
         public override void AfterConstruction()
         {
             base.AfterConstruction();
+
             // Place your initialization code here (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument112834.aspx).
         }
 
